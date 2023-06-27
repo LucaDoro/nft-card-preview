@@ -163,7 +163,3 @@ body {
 .nft-creator-name:hover {
     color: var(--cyan)
 }
-
-@media (max-width: 600px) {
-    
-}
